@@ -11,8 +11,6 @@ Desenvolvo projetos voltados para sistemas web, banco de dados e análise de dad
 
 ### Tecnologias
 
-### Tecnologias
-
 <table>
   <tr>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30"><br><sub>JavaScript</sub></td>
