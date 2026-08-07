@@ -1,6 +1,7 @@
-# Olá, eu sou a Camila 👋
+# Olá, eu sou a Camila.
 
-Estudante de **Ciência de Dados e Gestão de Tecnologia da Informação**, desenvolvendo projetos de sistemas web, banco de dados e análise de dados.
+Formada em Gestão de Tecnologia da Informação e estudante de Ciência de Dados.
+Desenvolvo projetos voltados para sistemas web, banco de dados e análise de dados.
 
 ### 🌐 Meu portfólio
 
