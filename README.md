@@ -24,3 +24,5 @@ Desenvolvo projetos voltados para sistemas web, banco de dados e análise de dad
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30"><br><sub>GitHub</sub></td>
   </tr>
 </table>
+
+![Visualizações do perfil](https://komarev.com/ghpvc/?username=camila-ubt&label=Visualizações%20do%20perfil&style=flat)
