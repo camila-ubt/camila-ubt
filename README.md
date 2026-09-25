@@ -1,9 +1,8 @@
-<img src="./assets/gato.gif" width="260" align="right" alt="Gato programando">
-
 # Olá, eu sou a Camila.
 
-Formada em Gestão de Tecnologia da Informação e estudante de Ciência de Dados.  
-Desenvolvo projetos voltados para sistemas web, banco de dados e análise de dados.
+Formada em Gestão de Tecnologia da Informação e estudante de Ciência de Dados. Desenvolvo projetos voltados para sistemas web, banco de dados e análise de dados.
+
+<img src="./assets/gato.gif" width="260" align="right" alt="Gato programando">
 
 ### 🌐 Meu portfólio
 
