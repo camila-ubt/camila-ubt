@@ -1,51 +1,44 @@
-<img src="./assets/gato.gif" width="260" align="center" alt="Gato programando">
+<img src="./assets/gato.gif" width="210" align="center" alt="Gato programando">
 
 # Olá, eu sou a Camila.
 
 Formada em Gestão de Tecnologia da Informação e estudante de Ciência de Dados. Desenvolvo projetos voltados para sistemas web, banco de dados e análise de dados.
 
-### 🌐 Meu portfólio
-
 <a href="https://camila-ubt.github.io">
   <img src="https://img.shields.io/badge/ACESSE%20MEU%20PORTFÓLIO-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-### Tecnologias
+## Tecnologias e Ferramentas
 
-#### Linguagens de programação
+<div align="center">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-#### Marcação e estilo
+</div> 
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+### GitHub Analytics
 
-#### Frameworks e bibliotecas
+<div align="left">
 
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![Recharts](https://img.shields.io/badge/Recharts-22B5BF?style=flat)
+<img height="148" src="https://github-readme-stats.vercel.app/api?username=camila-ubt&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9&icon_color=38BDF8" />
 
-#### Banco de dados e plataformas
+<img height="148" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camila-ubt&layout=compact&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9" />
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
-![Neon](https://img.shields.io/badge/Neon-00E599?style=flat&logo=neon&logoColor=black)
+<img height="148" src="https://streak-stats.demolab.com?user=camila-ubt&theme=transparent&hide_border=true&background=0D1117&ring=8B5CF6&fire=38BDF8&currStreakLabel=8B5CF6" />
 
-#### Versionamento e colaboração
+</div>
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+### Atividade no GitHub
 
-#### Hospedagem e deploy
+<div align="center">
 
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=camila-ubt&theme=tokyonight" />
 
-#### Sistema operacional
+</div>
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 ![Visualizações do perfil](https://komarev.com/ghpvc/?username=camila-ubt&label=Visualizações%20do%20perfil&style=flat)
