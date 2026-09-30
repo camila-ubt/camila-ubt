@@ -22,8 +22,6 @@ Formada em Gestão de Tecnologia da Informação e estudante de Ciência de Dado
 
 ### GitHub Analytics
 
-## GitHub Analytics
-
 <div align="center">
   <img width="32%" src="https://github-readme-stats.vercel.app/api?username=camila-ubt&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9&icon_color=38BDF8" />
   <img width="32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camila-ubt&layout=compact&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9" />
