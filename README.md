@@ -1,9 +1,10 @@
-<img src="./assets/gato.gif" width="210" align="center" alt="Gato programando">
+<div align="center"> <img src="./assets/gato.gif" width="210" align="center" alt="Gato programando">
 
 # Olá, eu sou a Camila.
-
 Formada em Gestão de Tecnologia da Informação e estudante de Ciência de Dados. Desenvolvo projetos voltados para sistemas web, banco de dados e análise de dados.
 
+## 
+<div align="center">
 <a href="https://camila-ubt.github.io">
   <img src="https://img.shields.io/badge/ACESSE%20MEU%20PORTFÓLIO-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
