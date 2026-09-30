@@ -8,7 +8,7 @@ Formada em Gestão de Tecnologia da Informação e estudante de Ciência de Dado
   <img src="https://img.shields.io/badge/ACESSE%20MEU%20PORTFÓLIO-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-## Tecnologias e Ferramentas
+### Tecnologias e Ferramentas
 
 <div align="center">
 
@@ -16,7 +16,11 @@ Formada em Gestão de Tecnologia da Informação e estudante de Ciência de Dado
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 </div> 
 
