@@ -23,13 +23,9 @@ Formada em Gestão de Tecnologia da Informação e estudante de Ciência de Dado
 ### GitHub Analytics
 
 <div align="center">
-
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=camila-ubt&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9&icon_color=38BDF8" />
-
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camila-ubt&layout=compact&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9" />
-
-  <img height="150" src="https://streak-stats.demolab.com?user=camila-ubt&theme=transparent&hide_border=true&background=0D1117&ring=8B5CF6&fire=38BDF8&currStreakLabel=8B5CF6" />
-
+  <img width="32%" height="145" src="https://github-readme-stats.vercel.app/api?username=camila-ubt&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9&icon_color=38BDF8" />
+  <img width="32%" height="145" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camila-ubt&layout=compact&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9" />
+  <img width="32%" height="145" src="https://streak-stats.demolab.com?user=camila-ubt&theme=transparent&hide_border=true&background=0D1117&ring=8B5CF6&fire=38BDF8&currStreakLabel=8B5CF6" />
 </div>
 
 ### Atividade no GitHub
