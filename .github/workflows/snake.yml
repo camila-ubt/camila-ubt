@@ -20,11 +20,11 @@ jobs:
         with:
           github_user_name: camila-ubt
           outputs: |
-            dist/github-snake-light.svg?color_snake=%238B5CF6&color_dots=%23F8F8F8,%23F3E8FF,%23E9D5FF,%23D8B4FE,%23C084FC
+            dist/github-snake-light.svg?color_snake=%236D28D9&color_dots=%23EFEFEF,%23E9D5FF,%23D8B4FE,%23A78BFA,%237C3AED
 
       - name: Ajustar contorno dos quadrados vazios
         run: |
-          sed -i 's/--cb:#1b1f230a/--cb:#C8C8C8/g' dist/github-snake-light.svg
+          sed -i 's/--cb:#1b1f230a/--cb:#BDBDBD/g' dist/github-snake-light.svg
 
       - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
