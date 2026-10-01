@@ -48,4 +48,4 @@ Formada em Gestão de Tecnologia da Informação e estudante de Ciência de Dado
 </div>
 
 ##
-![Visualizações do perfil](https://komarev.com/ghpvc/?username=camila-ubt&label=Visualizações%20do%20perfil&style=flat)
+![Visualizações do perfil](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fcamila-ubt&label=Visualiza%C3%A7%C3%B5es%20do%20perfil&labelColor=%235B21B6&countColor=%238B5CF6&style=flat)
