@@ -44,7 +44,7 @@ Formada em Gestão de Tecnologia da Informação e estudante de Ciência de Dado
 ### Minhas contribuições
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/camila-ubt/camila-ubt/output/github-snake.svg" width="100%">
+  <img src="https://raw.githubusercontent.com/camila-ubt/camila-ubt/output/github-snake-light.svg" width="100%">
 </div>
 
 ![Visualizações do perfil](https://komarev.com/ghpvc/?username=camila-ubt&label=Visualizações%20do%20perfil&style=flat)
