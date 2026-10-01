@@ -29,7 +29,7 @@ jobs:
 
       - name: Ajustar contorno dos quadrados vazios
         run: |
-          sed -i 's/--cb:#1b1f230a/--cb:#BDBDBD/g' dist/github-snake-light.svg
+          sudo sed -i 's/--cb:#1b1f230a/--cb:#BDBDBD/g' dist/github-snake-light.svg
 
       - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
