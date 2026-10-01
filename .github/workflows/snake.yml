@@ -14,20 +14,17 @@ permissions:
 jobs:
   generate:
     runs-on: ubuntu-latest
-    timeout-minutes: 5
 
     steps:
-      - name: Gerar animação da cobrinha
-        uses: Platane/snk/svg-only@v3
+      - uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_user_name: camila-ubt
           outputs: |
-            dist/github-snake-light.svg?color_snake=%236D28D9&color_dots=%23D6D6D6,%23E9D5FF,%23D8B4FE,%23A78BFA,%237C3AED
+            dist/github-snake-light.svg?color_snake=%236D28D9&color_dots=%23EFF2F5,%23D8B4FE,%23C084FC,%238B5CF6,%235B21B6
 
       - name: Ajustar contorno dos quadrados vazios
         run: |
-          sed -i 's/--cb:#1b1f230a/--cb:#BDBDBD/g' dist/github-snake-light.svg
+          sed -i 's/--cb:#1b1f230a/--cb:#E5E8EB/g' dist/github-snake-light.svg
 
       - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
