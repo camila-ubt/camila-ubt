@@ -37,7 +37,7 @@ Formada em Gestão de Tecnologia da Informação e estudante de Ciência de Dado
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=camila-ubt&theme=tokyonight" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=camila-ubt&bg_color=0D1117&color=C9D1D9&line=8B5CF6&point=38BDF8&area=true&hide_border=true" />
 
 </div>
 
