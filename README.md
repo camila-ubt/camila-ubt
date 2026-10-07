@@ -33,14 +33,6 @@ Formada em Gestão de Tecnologia da Informação e estudante de Ciência de Dado
   <img width="32%" height="145" src="https://streak-stats.demolab.com?user=camila-ubt&theme=transparent&hide_border=true&background=0D1117&ring=8B5CF6&fire=38BDF8&currStreakLabel=8B5CF6" />
 </div>
 
-### Atividade no GitHub
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=camila-ubt&bg_color=0D1117&color=C9D1D9&line=8B5CF6&point=38BDF8&area=true&hide_border=true" />
-
-</div>
-
 ### Minhas contribuições
 
 <div align="center">
